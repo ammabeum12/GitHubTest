@@ -1,0 +1,47 @@
+## Question 1 answer:
+
+#natural log
+log(12.43)
+
+#log to base 10
+log10(12.43)
+sqrt(12.43)
+
+## Question 2 answer:
+
+#pi function
+area_circle<- pi*(50/2)^2
+length(area_circle)
+
+# Question 3 answer:
+weight <- c (, 120, 117, 139, 129, 94, 86, 106, 107, 126)
+height<-c (47, 40, 41, 35, 60, 42, 50, 49, 38, 42)
+bmi(,120, 117, 139, 129, 94, 86, 106, 107, 126)/(47, 40, 41, 35, 60, 42, 50, 49, 38, 42)^2)
+summary(weight, height)
+
+# Qustion 4 answer:
+name<-c (“John”, “Megan”, “Ryan”, “Isabela”, “Matt”, “Lindsay”, “Tony”, “Mary Jane”, “Chase” and “Delaney”)
+height<-c(“John”, “Megan”, “Ryan”, “Isabela”, “Matt”, “Lindsay”, “Tony”, “Mary Jane”, “Chase” and “Delaney”)
+weight(“John”, “Megan”, “Ryan”, “Isabela”, “Matt”, “Lindsay”, “Tony”, “Mary Jane”, “Chase” and “Delaney”)
+alldata(names, height, weight)
+
+# Question 5 answer:
+height_rank()
+weight_rank()
+seq()
+
+#Question 6 answer:
+data <- rnorm(10,000)
+height2<- c(data)
+weight2<-c(data)
+height_mean <- c(data)
+weight_mean <- c(data)
+sd(data)
+plot(data)
+print(data)
+
+
+#Question 7 & 8 answer:
+paste()
+seq()
+all_data(weight2, height2)
